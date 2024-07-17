@@ -1,0 +1,10 @@
+export const UserAPI = "/users";
+export const CustomerAPI = "/customer";
+export const AppointmentAPI = "/bookings";
+export const ServiceAPI = "/services";
+export const ServiceTypeAPI = "/service-types";
+export const CarTypeAPI = "/car-types";
+export const EmployeeAPI = "/employees";
+export const DashboardAPI = "/dashboard";
+export const CustomerCareAPI = "/customer-care";
+export const ReportsAPI = "/reports/booking";
